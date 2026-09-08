@@ -2,8 +2,15 @@
 
 <sub> wip </sub>
 
-<img width="67" height="11" alt="tumblr_inline_q1n1t8JA5p1wd8xpo_500" src="https://github.com/user-attachments/assets/50a4e5af-168c-4e16-9b8d-c43a3950fc8d" />
+<img width="400" height="26" alt="tumblr_4a1d61c0ffeb32586ea4edd7eece769c_fd95fd6e_400" src="https://github.com/user-attachments/assets/85d1948b-90c6-4c18-8bd8-45a706e99aa7" />
 
-<img width="100" height="57" alt="tumblr_16b22d97d34769475ab87fb0bad2e602_f90ffdf8_100" src="https://github.com/user-attachments/assets/d8bfa365-8964-4e12-a994-55142d7168e1" /><img width="100" height="57" alt="tumblr_e3b2f186f9bd79f8f9029bc83c032df1_2cf2a2ef_100" src="https://github.com/user-attachments/assets/9d7c4f0b-04b4-492a-875f-fec755e0353a" /> 
+<p></p>
+<img width="99" height="56" alt="trans_stamp" src="https://github.com/user-attachments/assets/594f8ad5-24db-4f44-b6b6-29d0df262243" /> <img width="99" height="56" alt="tumblr_6de58bb5fbb3ee40f51ecf4ef153c38b_b42fdc1e_100" src="https://github.com/user-attachments/assets/94082e85-19c0-4eed-8b19-124e032f3b75" />
+<img width="99" height="56" alt="aroace_stamp" src="https://github.com/user-attachments/assets/1ce4228a-7d18-462e-8ef7-3972b3eaacca" />
+
+
 <p> he / him transmale ! </p>
+
+<img width="20" height="20" alt="xXwiFuo" src="https://github.com/user-attachments/assets/36ee3360-8ba3-4555-a916-a9914de1c792" />
+
 </div>
