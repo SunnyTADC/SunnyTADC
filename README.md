@@ -1,6 +1,10 @@
 <div align="center">
 
+
 <sub> wip </sub>
+
+<img width="639" height="304" alt="tumblr_afdaacf5b9dd2aadfaeaa3867b768a4d_9911e17e_640" src="https://github.com/user-attachments/assets/da6fc9f5-12e9-4e8f-81dd-55598fc44ee0" />
+
 
 <img width="400" height="26" alt="tumblr_4a1d61c0ffeb32586ea4edd7eece769c_fd95fd6e_400" src="https://github.com/user-attachments/assets/85d1948b-90c6-4c18-8bd8-45a706e99aa7" />
 
