@@ -3,6 +3,8 @@
 
 <sub> wip </sub>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F7C542&center=true&vCenter=true&width=435&lines=The+sun+may+shine+again%2C;if+the+moon+sets;outward+from+the+horizons;by+the+line+of+the+sea." alt="Typing SVG" /></a>
+
 <img width="639" height="304" alt="tumblr_afdaacf5b9dd2aadfaeaa3867b768a4d_9911e17e_640" src="https://github.com/user-attachments/assets/da6fc9f5-12e9-4e8f-81dd-55598fc44ee0" />
 
 
